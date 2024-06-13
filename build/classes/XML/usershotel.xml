@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<users>
+    <user>
+        <name>Tung1</name>
+        <mobileNumber>012345</mobileNumber>
+        <nationality>Viet Nam</nationality>
+        <gender>Male</gender>
+        <email>tung1@gmail.com</email>
+        <idProof>ID012345</idProof>
+        <address>Phu Yen</address>
+        <checkIN>2024/06/13</checkIN>
+        <bed>Triple</bed>
+        <roomType>AC</roomType>
+        <roomNo>302</roomNo>
+        <price>2500</price>
+    </user>
+</users>
